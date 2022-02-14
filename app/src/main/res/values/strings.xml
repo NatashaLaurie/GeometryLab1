@@ -1,3 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="filter_button">Filter</string>
+    <string name="execution">Execution</string>
+    <string name="open_context">Open context</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="choose_task">Choose task</string>
+    <string name="task1_text">Дано: Точки p1(x1, y1), p2(x2, y2), p0(x0, y0)
+\n\nНадо: Определить положение точки p0 относительно прямой, проходящей
+через точки p1 и p2 (“на прямой” или “левее”, “правее” прямой). Направление
+на прямой от p1 к p2.
+\n\nПримечания: в качестве результата выдается сообщение о положении точки
+и картинка с изображением трех подписанных точек и прямой.</string>
+    <string name="task2_text">Дано: Точки
+p1(x1, y1), p2(x2, y2),
+p3(x3, y3), p4(x4, y4)
+\n\nНадо: Определить пересекаются ли отрезки p1p2 и p3p4?
+\n\nПримечания: в качестве результата выдается сообщение о положении
+отрезков и картинка с изображением отрезков.</string>
+    <string name="task3_text"> Дано: P = {p1(x1, y1), p2(x2, y2), … ,pn(xn, yn)}
+\n\nНадо: Определить является ли многоугольник P простым многоугольником?
+\n\nПримечания: в качестве результата выдается сообщение и картинка с
+изображением многоугольника с подписанными вершинами.</string>
 </resources>
